@@ -45,11 +45,11 @@ It supports:
 🛠 Tech Stack
 * Frontend: Streamlit
 * NLP: NLTK
-* APIs: Wikipedia API, Google Speech Recognition API
 * ML Technique: TF-IDF (Scikit-learn)
 * Visualization: Matplotlib
 * PDF Parsing: PyPDF2
 * DOCX Parsing: python-docx
-* Language: Python
 * Development Environment: Visual Studio Code (VS Code)
-  
+* Language: Python
+
+
