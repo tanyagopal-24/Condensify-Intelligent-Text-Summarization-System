@@ -1,0 +1,8 @@
+streamlit
+nltk
+scikit-learn
+numpy
+matplotlib
+PyPDF2
+python-docx
+Visual Studio Code (VS Code)
